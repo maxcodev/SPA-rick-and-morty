@@ -1,0 +1,1 @@
+# SPA-rick-and-morty
